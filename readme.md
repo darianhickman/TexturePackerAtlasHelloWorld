@@ -1,3 +1,6 @@
+Full Notes on Learning TexturePackerAtlas
+https://docs.google.com/document/d/1SVpLc3S1UoTvdA0CpVE4Heo0tqqIwcOb2khG2spgNUk/pub
+
 Issues and Resolutions
 
 Initial could not find urls got solved with a new igeRoot
